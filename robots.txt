@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://everest-automotive-lethbridge.khang-lebao.chatgpt.site/sitemap.xml
